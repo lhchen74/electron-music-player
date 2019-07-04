@@ -1,0 +1,14 @@
+{
+	"tracks": [
+		{
+			"id": "a8f17a78-bf8a-447d-a23e-d3a35f90cd5d",
+			"path": "D:\\study\\electron\\simple-music-player\\music\\AchievementUnlocked.mp3",
+			"fileName": "AchievementUnlocked.mp3"
+		},
+		{
+			"id": "40c5dd0d-3c4a-45b1-8686-e703cc5f1d12",
+			"path": "D:\\study\\electron\\simple-music-player\\music\\test.mp3",
+			"fileName": "test.mp3"
+		}
+	]
+}
